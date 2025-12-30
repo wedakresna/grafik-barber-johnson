@@ -13,7 +13,6 @@ Grafik ini mengintegrasikan empat indikator utama:
 
 Program ini dibuat mengikuti kaidah pembuatan Grafik Barber Johnson secara manual dan mengotomatisasinya dalam bentuk visualisasi grafik.
 
----
 
 ## Fitur
 - Membuat sumbu TOI (horizontal) dan ALOS/LOS (vertikal)
@@ -23,7 +22,6 @@ Program ini dibuat mengikuti kaidah pembuatan Grafik Barber Johnson secara manua
 - Menampilkan titik Barber Johnson berdasarkan data input
 - Mudah disesuaikan untuk kebutuhan rumah sakit dan laporan periodik
 
----
 
 ## Kebutuhan Sistem
 - Python 3.9 atau lebih baru
@@ -31,7 +29,6 @@ Program ini dibuat mengikuti kaidah pembuatan Grafik Barber Johnson secara manua
   - numpy
   - matplotlib
 
----
 
 ## Instalasi
 
